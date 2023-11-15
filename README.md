@@ -8,6 +8,10 @@ This Amazon Clone project is a front-end web development exercise that replicate
 
 To explore this Amazon Clone, simply clone the repository and open the `index.html` file in your preferred web browser.
 
+## Contributing
+
+If you'd like to contribute to this project, feel free to submit a pull request. Bug reports, feature requests, and feedback are always welcome!
+
 ```bash
 git clone https://github.com/your-username/amazon-clone-html-css.git
 cd amazon-clone-html-css
