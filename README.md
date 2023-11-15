@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Amazon Clone project is a front-end web development exercise that replicates the user interface of the popular e-commerce platform, Amazon. Built using HTML and CSS, this project serves as a practical demonstration of design and layout techniques.
+This Amazon Clone project is a front-end web development exercise that replicates the user interface of the popular e-commerce platform, Amazon. Built using HTML, CSS and Bootstrap this project serves as a practical demonstration of design and layout techniques.
 
 ## Getting Started
 
