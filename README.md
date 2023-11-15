@@ -11,7 +11,3 @@ To explore this Amazon Clone, simply clone the repository and open the `index.ht
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Bug reports, feature requests, and feedback are always welcome!
-
-```bash
-git clone https://github.com/your-username/amazon-clone-html-css.git
-cd amazon-clone-html-css
